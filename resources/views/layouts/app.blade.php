@@ -12,8 +12,8 @@
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
         @livewireStyles
         <!-- Scripts -->
-        <link rel="stylesheet" href="{{asset('build/assets/app-a7778a8b.css')}}">
-        <script src="{{asset('build/assets/app-e5a20cd9.js')}}"></script>
+        {{--  <link rel="stylesheet" href="{{asset('build/assets/app-a7778a8b.css')}}">
+        <script src="{{asset('build/assets/app-e5a20cd9.js')}}"></script>  --}}
         @vite(['resources/css/app.css', 'resources/js/app.js'])
         <style>
             .work-sans {

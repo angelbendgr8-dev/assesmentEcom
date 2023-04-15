@@ -6,7 +6,7 @@
 - Run `php artisan migrate --seed`
 - Run `yarn `
 
-to use laravel vite
+to use laravel vite and add css 
 - Run `yarn dev`
 
 This project uses laravel breeze for authentication
