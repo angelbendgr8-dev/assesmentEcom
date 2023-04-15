@@ -21,6 +21,8 @@ this project also uses TALL STACK to implement the core functionalities required
 To run this project locally a kafka server is required to run locally so as to allow consumer and producer
 to be served by the server;
 
+To set up kafka server locally follow the tutorial in the docs (http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)
+
 The kafka consumer and producer was implemented using [Laravel Kafka] (https://junges.dev/documentation/laravel-kafka/v1.13/1-introduction).
 
 
